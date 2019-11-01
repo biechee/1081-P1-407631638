@@ -1,0 +1,38 @@
+
+#heading {
+  height: 50px;
+  background-color: darkcyan;
+  text-align: center;
+  font-size: 20px;
+}
+
+#section {
+  width: 99.9%;
+  height: 800px;
+  background-color: rgb(152, 230, 230);
+  border: 2px solid purple;
+}
+
+#section a {
+  position: relative;
+  margin: 50px;
+}
+#heading nav ul {
+  padding: 0px;
+}
+
+#heading nav li {
+  float: left;
+  list-style-type: none;
+  margin: 15px;
+  font-size: 15px;
+}
+
+#heading nav a {
+  padding: 5px;
+  background-color: darksalmon;
+}
+
+#heading nav a:hover {
+  background-color: crimson;
+}
